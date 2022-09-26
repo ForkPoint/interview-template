@@ -1,0 +1,7 @@
+In the following template you have broken styles and HTML structure, please find a way to fix them. 
+You`re given a solution image, where the design is correct. Watch from there.
+
+Cover the following challenges to complete your mission:
+    1.THOR paragraph had wrong background color and size.
+    2.In the second section we have two pictures. They are in a wrong position.
+    3.The GIF in footer is displayed in the right corner, also with much bigger size.

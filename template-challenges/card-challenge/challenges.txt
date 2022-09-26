@@ -1,0 +1,6 @@
+In the following template you have broken styles and HTML structure, please find a way to fix them. 
+You`re given a solution image, where the design is correct. Watch from there.
+
+Cover the following challenges to complete your mission:
+    1.The image have wrong sizes.
+    2.Card elements are terribly displayed. Fix them!

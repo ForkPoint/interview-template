@@ -1,0 +1,91 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 0;
+  height: 100%;
+  background-color: black;
+}
+
+nav {
+  width: 100%;
+  background-color: black;
+}
+
+nav .navIcon {
+  width: 50px;
+  margin: 15px;
+}
+
+nav div {
+  float: right;
+  color: white;
+}
+
+nav a {
+  color: inherit;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+nav li {
+  display: inline;
+  list-style: none;
+  margin: 50px;
+}
+
+.pageContent {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 500px;
+  background-image: url("https://comicvine1.cbsistatic.com/uploads/original/3/30334/2356077-mu8573.jpg");
+  background-size: cover;
+}
+
+.firstImg {
+  align-self: center;
+  margin: 50px;
+}
+
+.pContainer {
+  width: 40%;
+}
+
+p {
+  font-size: 1em;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 0, 0, 0.7);
+  padding: 18px;
+  border-radius: 30px;
+}
+
+.secondImg {
+  width: 49%;
+  float: right;
+  border: solid;
+  border-width: 5px;
+}
+
+.footer {
+  width: 100%;
+  height: 150px;
+  background-color: black;
+}
+
+.footer {
+  display: block;
+  float: right;
+  padding-top: 30px;
+}
+
+.footer img {
+  float: right;
+  margin-left: 30px;
+  border-radius: 15px;
+}
+
+.footer a {
+  float: right;
+  padding-right: 50px;
+}

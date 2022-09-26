@@ -1,0 +1,9 @@
+In the following template you have broken styles and HTML structure, please find a way to fix them. 
+You`re given a solution image, where the design is correct. Watch from there.
+
+Cover the following challenges to complete your mission:
+    1.Broken HEADER position.
+    2.The red bordered div`s are wrong displayed, fix them.
+    3.The button 'Learn More' is in the wrong div.
+    4.Text 'Wakanda Forever' is reversed and also in the wrong div.
+    5.Panther pictures must be in the correct position.
