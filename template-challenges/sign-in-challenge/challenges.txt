@@ -1,8 +1,0 @@
-In the following template you have broken styles and HTML structure, please find a way to fix them. 
-You`re given a solution image, where the design is correct. Watch from there.
-
-Cover the following challenges to complete your mission:
-    1.Social media icons are not in the right position.
-    2.'Username' field is missing.
-    3.'Username' icon is broken.
-    4.'Login' button have a wrong back-ground color.

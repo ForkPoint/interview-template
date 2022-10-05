@@ -1,7 +1,0 @@
-In the following template you have broken styles and HTML structure, please find a way to fix them. 
-You`re given a solution image, where the design is correct. Watch from there.
-
-Cover the following challenges to complete your mission:
-    1.The logo is in wrong position.
-    2.The menu is in wrong postion.
-    3.Header is really big, make it smalled.
